@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89107146431",
+    "firebase_url": "https://praialimpaflutter.firebaseio.com",
+    "project_id": "praialimpaflutter",
+    "storage_bucket": "praialimpaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89107146431:android:378b532dc2da3fdf",
+        "android_client_info": {
+          "package_name": "com.oceanica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89107146431-2c3n00u8hqkomg2h409tqm7us3no2cd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oceanica",
+            "certificate_hash": "a1a7c7d78571e6e99a3a0c42803e175f0195798d"
+          }
+        },
+        {
+          "client_id": "89107146431-u115vfcu93bbabo80epgvdd2jaao837b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIj3dPoVpVLC90KQOHDNZDX77xevqSN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89107146431-u115vfcu93bbabo80epgvdd2jaao837b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
